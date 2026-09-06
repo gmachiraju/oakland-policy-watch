@@ -1,0 +1,124 @@
+[
+  {
+    "slug": "telegraph-ave-bike-lane-expansion",
+    "identifier": "Ordinance No. 13984 C.M.S.",
+    "title": "Telegraph Avenue Bike Lane Expansion",
+    "topic": "Transportation",
+    "issue": "Bike infrastructure",
+    "district": "District 1",
+    "author": "Councilmember (District 1)",
+    "sponsors": ["Councilmember (District 3)", "Councilmember (At-Large)"],
+    "status": "Proposed",
+    "voteHistory": [],
+    "keyDates": [
+      { "label": "Introduced", "date": "2026-07-14" },
+      { "label": "Public Works & Transportation Committee hearing", "date": "2026-08-04" }
+    ],
+    "commentDeadline": "2026-09-18",
+    "summary": "Expands protected bike lanes along Telegraph Avenue from 20th Street to the Berkeley border.",
+    "description": "This ordinance would add protected, physically separated bike lanes along a 2.3-mile stretch of Telegraph Avenue, removing one vehicle travel lane in each direction. It builds on the city's Bike Plan and responds to a rise in cyclist injuries reported along the corridor over the past three years. The Department of Transportation would oversee construction, phased over two fiscal years.",
+    "whyItMatters": "Telegraph Avenue is one of the most heavily used cycling corridors in Oakland, and this project would directly affect commute routes, street parking, and traffic flow for residents and businesses along the corridor.",
+    "quote": {
+      "text": "We can't keep treating bike safety as an afterthought on our busiest streets.",
+      "speaker": "Councilmember (District 1)"
+    },
+    "source": {
+      "label": "Placeholder agenda item (fabricated, not a real record)",
+      "url": "https://example.com/oakland-council/ordinance-13984"
+    }
+  },
+  {
+    "slug": "fruitvale-affordable-housing-overlay",
+    "identifier": "Ordinance No. 13901 C.M.S.",
+    "title": "Fruitvale Affordable Housing Overlay",
+    "topic": "Housing/homelessness",
+    "issue": "Affordable housing",
+    "district": "District 5",
+    "author": "Councilmember (District 5)",
+    "sponsors": ["Councilmember (District 2)"],
+    "status": "Passed",
+    "voteHistory": [
+      { "member": "Councilmember (District 1)", "vote": "Yes" },
+      { "member": "Councilmember (District 2)", "vote": "Yes" },
+      { "member": "Councilmember (District 3)", "vote": "Yes" },
+      { "member": "Councilmember (District 4)", "vote": "Abstain" },
+      { "member": "Councilmember (District 5)", "vote": "Yes" },
+      { "member": "Councilmember (District 6)", "vote": "Yes" },
+      { "member": "Councilmember (District 7)", "vote": "No" },
+      { "member": "Councilmember (At-Large)", "vote": "Yes" }
+    ],
+    "keyDates": [
+      { "label": "Introduced", "date": "2026-03-02" },
+      { "label": "Planning Commission review", "date": "2026-04-20" },
+      { "label": "Council vote", "date": "2026-06-09" }
+    ],
+    "summary": "Creates a zoning overlay in Fruitvale allowing higher-density affordable housing near the BART station.",
+    "description": "The overlay increases allowable building height and density within a half-mile of the Fruitvale BART station, conditioned on a minimum share of units being deed-restricted as affordable. It also streamlines the permitting process for qualifying projects, reducing review time by an estimated four months. The Department of Housing & Community Development will administer compliance monitoring.",
+    "whyItMatters": "Fruitvale has faced displacement pressure as rents rise near transit; this overlay is intended to add affordable units in one of the neighborhoods most affected by the citywide housing shortage.",
+    "source": {
+      "label": "Placeholder agenda item (fabricated, not a real record)",
+      "url": "https://example.com/oakland-council/ordinance-13901"
+    }
+  },
+  {
+    "slug": "lake-merritt-water-quality-remediation",
+    "identifier": "Ordinance No. 14002 C.M.S.",
+    "title": "Lake Merritt Water Quality Remediation Plan",
+    "topic": "Green spaces",
+    "issue": "Water quality",
+    "district": "District 2/3",
+    "author": "Councilmember (District 2)",
+    "sponsors": ["Councilmember (District 3)"],
+    "status": "Proposed",
+    "voteHistory": [],
+    "keyDates": [
+      { "label": "Introduced", "date": "2026-08-01" },
+      { "label": "Public Works & Transportation Committee hearing", "date": "2026-09-22" }
+    ],
+    "commentDeadline": "2026-09-29",
+    "summary": "Funds stormwater filtration upgrades to reduce pollution runoff into Lake Merritt.",
+    "description": "This ordinance authorizes capital funding for new stormwater filtration infrastructure at four outfalls draining into Lake Merritt, targeting reductions in bacteria and trash levels flagged in recent water quality testing. Public Works would manage construction in coordination with the Alameda County Flood Control District. The plan also includes a public dashboard reporting water quality metrics.",
+    "whyItMatters": "Lake Merritt is a heavily used public space for recreation and wildlife, and persistent water quality issues have prompted repeated advisories against water contact in past years.",
+    "source": {
+      "label": "Placeholder agenda item (fabricated, not a real record)",
+      "url": "https://example.com/oakland-council/ordinance-14002"
+    }
+  },
+  {
+    "slug": "police-commission-charter-renewal",
+    "identifier": "Ordinance No. 13876 C.M.S.",
+    "title": "Police Commission Charter Renewal",
+    "topic": "Safety",
+    "issue": "Police oversight",
+    "district": "Citywide (At-Large)",
+    "author": "Councilmember (At-Large)",
+    "sponsors": ["Councilmember (District 4)", "Councilmember (District 6)"],
+    "status": "Signed",
+    "voteHistory": [
+      { "member": "Councilmember (District 1)", "vote": "Yes" },
+      { "member": "Councilmember (District 2)", "vote": "Yes" },
+      { "member": "Councilmember (District 3)", "vote": "Yes" },
+      { "member": "Councilmember (District 4)", "vote": "Yes" },
+      { "member": "Councilmember (District 5)", "vote": "Yes" },
+      { "member": "Councilmember (District 6)", "vote": "Yes" },
+      { "member": "Councilmember (District 7)", "vote": "Absent" },
+      { "member": "Councilmember (At-Large)", "vote": "Yes" }
+    ],
+    "keyDates": [
+      { "label": "Introduced", "date": "2026-01-12" },
+      { "label": "Council vote", "date": "2026-02-24" },
+      { "label": "Signed by Mayor", "date": "2026-03-02" }
+    ],
+    "summary": "Renews and clarifies the Police Commission's charter authority for another five-year term.",
+    "description": "This ordinance renews the Community Policing Advisory Board and Police Commission's charter authority, clarifying investigative powers and reporting requirements for the Community Police Review Agency. It maintains existing commissioner appointment processes and adds an annual public reporting requirement on complaint outcomes. No new funding is authorized.",
+    "whyItMatters": "The Police Commission is Oakland's primary civilian oversight body for the police department, and its charter authority directly affects how misconduct complaints are investigated and reported to the public.",
+    "quote": {
+      "text": "Oversight only works if the public can see what it's actually doing.",
+      "speaker": "Councilmember (At-Large)"
+    },
+    "source": {
+      "label": "Placeholder agenda item (fabricated, not a real record)",
+      "url": "https://example.com/oakland-council/ordinance-13876"
+    }
+  }
+]
